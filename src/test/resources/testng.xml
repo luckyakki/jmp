@@ -4,6 +4,7 @@
   <test name="alltests" >
     <classes>
        <class name="com.luckymart.jmp.testmath.TestAdd"/>
+       <class name="com.luckymart.jmp.AppTest"></class>
     </classes>
   </test>
  
