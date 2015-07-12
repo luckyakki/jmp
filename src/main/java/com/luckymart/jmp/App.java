@@ -1,7 +1,7 @@
 package com.luckymart.jmp;
 
 /**
- * Hello world!
+ * Hello world! shai
  *
  */
 public class App 
