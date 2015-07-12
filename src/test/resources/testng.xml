@@ -5,6 +5,7 @@
     <classes>
        <class name="com.luckymart.jmp.testmath.TestAdd"/>
        <class name="com.luckymart.jmp.AppTest"></class>
+       <class name="com.luckymart.jmp.testmath.TestSubtract"></class>
     </classes>
   </test>
  
