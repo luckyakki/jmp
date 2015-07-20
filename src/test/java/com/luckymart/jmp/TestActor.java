@@ -9,8 +9,8 @@ public class TestActor {
 	@Test
 	public void testAct(){
 		Actor actorObject = new Actor();
-		Assert.assertEquals("Chiranjeevi is acting...", actorObject.act("Chiranjeevi"));
-		Assert.assertEquals("Nagarjuna is acting...", actorObject.act("Nagarjuna"));
+		Assert.assertEquals(actorObject.act("Chiranjeevi"), "Chiranjeevi is acting...");
+		Assert.assertEquals(actorObject.act("Nagarjuna"),"Nagarjuna is acting...");
 	}
 
 }
