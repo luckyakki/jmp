@@ -8,13 +8,10 @@ public class Cricket {
 		sachin.name = "sachin";
 		sachin.Bat();
 		
-		
 		Cricket ponti = new Cricket();
 		ponti.name ="ponti";
 		ponti.fielding();
 		
-		
-	
 		}
 		
 	     public void Bat() {

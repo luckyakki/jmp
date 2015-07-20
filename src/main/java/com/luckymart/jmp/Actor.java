@@ -6,12 +6,14 @@ public class Actor {
 		Actor chiranjeevi = new Actor();
 		Actor nagarjuna = new Actor();
 		
-		chiranjeevi.act("Chiranjeevi");
-		nagarjuna.act("Nagarjuna");
+		String message = chiranjeevi.act("Chiranjeevi");
+		System.out.println(message);
+		message = nagarjuna.act("Nagarjuna");
+		System.out.println(message);
 	}
-	public void act(String name){
-		System.out.println(name +"  is Acting....");	
-		
+	public String act(String name){
+		String whoisacting = name+ " is acting...";
+		return whoisacting;
 	}
 
 
