@@ -10,17 +10,16 @@ public class Cricket {
 		
 		Cricket ponti = new Cricket();
 		ponti.name ="ponti";
-		ponti.fielding();
-		
-		}
+		ponti.fielding();  }
 		
 	     public void Bat() {
-			System.out.println(name + " batting");
-		}
+			System.out.println(name + " batting"); }
 			
 	     public void fielding(){
-			System.out.println(name + " fielding");
-			}
+			System.out.println(name + " fielding"); }
+			
+	     
+}
 			
 			
 			
@@ -30,6 +29,5 @@ public class Cricket {
 		
 	
 	
-	}
 	
 
