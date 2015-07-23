@@ -6,7 +6,7 @@ public class StringName2 {
 		
 		String text = "hello";
 		String  blank = "  ";
-		String  name = "lucky";
+		String  name = "akila";
 		
 		String greeting = text + blank + name;
 		  
