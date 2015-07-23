@@ -4,7 +4,7 @@ public class Stringname1 {
 	public static void main(String[] args) {
 		int myint = 4;
 		
-		String text = "hello";
+		String text = "hellooooo";
 		String  blank = "  ";
 		String  name = "lucky";
 		
