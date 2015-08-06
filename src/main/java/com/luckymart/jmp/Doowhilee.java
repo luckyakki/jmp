@@ -10,6 +10,7 @@ public class Doowhilee {
 		 System.out.println(a);
 		 a++;
 		 }
+	 
 	 System.out.println("==========================");
 	 int b=0;
 	 do{
