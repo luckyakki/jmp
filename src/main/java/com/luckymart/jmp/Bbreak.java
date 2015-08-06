@@ -11,17 +11,16 @@ public class Bbreak {
 				break;
 			}
 		loop++;
-		System.out.println("run " + loop);
+		System.out.println("run");
 	
 		
 			}
 			
 		
 		
-	}
-	
+		
 		
 	}
 	
 	
-
+}
