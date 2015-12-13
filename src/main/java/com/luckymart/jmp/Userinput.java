@@ -5,6 +5,8 @@ import java.util.Scanner;
 public class Userinput {
 	public static void main(String[] args) {
 		 
+		
+		@SuppressWarnings("resource")
 		Scanner input = new Scanner(System.in);//create a scanner obj
 		
 		System.out.println("enter a line of text :");//output the prompt

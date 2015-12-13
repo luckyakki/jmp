@@ -1,5 +1,5 @@
-package com.luckymart.jmp;
-
+package com.luckymart.jmp;                           //programming knowledge //
+ 
 public class Stringname1 {
 	public static void main(String[] args) {
 		int myint = 4;

@@ -1,4 +1,4 @@
-package com.luckymart.jmp;
+package com.luckymart.jmp;                   //programming knowledge //
 
 public class StringName2 {
 	public static void main(String[] args) {

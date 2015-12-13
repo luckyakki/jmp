@@ -1,4 +1,4 @@
-package com.luckymart.jmp;
+package com.luckymart.jmp;                   //programming knowledge //
 
 public class Loopwhile {
 	public static void main(String[] args) {
@@ -7,9 +7,9 @@ public class Loopwhile {
 		while(value<10)
 		{
 			
-		System.out.println("loop "  + value);
+		System.out.println("lucky "  + value);
 		
-		value = value + 1;
+		value++; // value = value +1 //
 		
 		}
 		

@@ -4,7 +4,8 @@ package com.luckymart.jmp;
 class Box1 {
 double width;
 double height;
-double depth;
+double depth;                                                  //Text Book //
+                                                                 //Default constructor //
                    // This is the constructor for Box.
 Box1(double w, double h, double d) {
 width = w;

@@ -9,7 +9,7 @@ public class Actor {
 		String message = chiranjeevi.act("Chiranjeevi");
 		System.out.println(message);
 		message = nagarjuna.act("Nagarjuna");
-		System.out.println(message);
+		System.out.println(message);                //rithus telugu //
 	}
 	public String act(String name){
 		String whoisacting = name+ " is acting...";
